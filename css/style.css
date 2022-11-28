@@ -296,7 +296,7 @@ h6 { font-size: 16px; }
 	float: left;
 	clear: both;
 	background-color: #141E30;
-	border-bottom: 1px solid rgba(92, 91, 91, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 	padding: 15px 20px 15px 20px;
 }
 .aali_tm_mobile_menu .mobile_in{
@@ -316,6 +316,7 @@ h6 { font-size: 16px; }
 	line-height: 0;
 	position: relative;
 	top: 3px;
+	
 }
 .aali_tm_mobile_menu .dropdown{
 	width: 100%;
@@ -355,6 +356,7 @@ h6 { font-size: 16px; }
 .hamburger-inner, .hamburger-inner:after, .hamburger-inner:before{
 	width: 30px !important;
 	height: 2px !important;
+	background-color: #fff;
 }
 .hamburger-box{
 	width: 30px !important;
