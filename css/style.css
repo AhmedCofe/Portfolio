@@ -5,26 +5,26 @@
 /*	Author: Marketify
 /*	This file is made for CURRENT TEMPLATE
 
-01)	AALI BASE
-02)	AALI MOBILE MENU
-03) AALI HEADER
-04) AALI HERO
-05) AALI ABOUT
-06) AALI SKILLS
-07) AALI PORTFOLIO
-08) AALI SERVICES
-09) AALI RESUME
-10) AALI TESTIMONIALS
-11) AALI NEWS
-12) AALI COUNTER
-13) AALI CONTACT
-14) AALI COPYRIGHT
-15) AALI CURSOR
-16) AALI MEDIA QUERIES (FOR SMALL DEVIVES)
+01)	cofe BASE
+02)	cofe MOBILE MENU
+03) cofe HEADER
+04) cofe HERO
+05) cofe ABOUT
+06) cofe SKILLS
+07) cofe PORTFOLIO
+08) cofe SERVICES
+09) cofe RESUME
+10) cofe TESTIMONIALS
+11) cofe NEWS
+12) cofe COUNTER
+13) cofe CONTACT
+14) cofe COPYRIGHT
+15) cofe CURSOR
+16) cofe MEDIA QUERIES (FOR SMALL DEVIVES)
 
 
 /*---------------------------------------------------*/
-/*	01) AALI BASE
+/*	01) cofe BASE
 /*---------------------------------------------------*/
 
 html {
@@ -278,7 +278,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	02) AALI MOBILE MENU
+/*	02) cofe MOBILE MENU
 /*---------------------------------------------------*/
 
 .aali_tm_mobile_menu{
@@ -363,7 +363,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	03) AALI HEADER
+/*	03) cofe HEADER
 /*---------------------------------------------------*/
 
 .aali_tm_header{
@@ -448,7 +448,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	04) AALI HERO
+/*	04) cofe HERO
 /*---------------------------------------------------*/
 
 .aali_tm_hero{
@@ -784,7 +784,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	05) AALI ABOUT
+/*	05) cofe ABOUT
 /*---------------------------------------------------*/
 
 .aali_tm_about{
@@ -933,7 +933,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	06) AALI SKILLS
+/*	06) cofe SKILLS
 /*---------------------------------------------------*/
 
 .aali_tm_skills{
@@ -1072,7 +1072,7 @@ h6 { font-size: 16px; }
 @keyframes wow {0%{ width:0%; } 100%{ width:100%; }}
 
 /*---------------------------------------------------*/
-/*	07) AALI PORTFOLIO
+/*	07) cofe PORTFOLIO
 /*---------------------------------------------------*/
 
 .aali_tm_portfolio{
@@ -1488,7 +1488,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	08) AALI SERVICES
+/*	08) cofe SERVICES
 /*---------------------------------------------------*/
 
 .aali_tm_service{
@@ -1685,7 +1685,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	09) AALI RESUME
+/*	09) cofe RESUME
 /*---------------------------------------------------*/
 
 .aali_tm_resume{
@@ -1837,7 +1837,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	10) AALI TESTIMONIALS
+/*	10) cofe TESTIMONIALS
 /*---------------------------------------------------*/
 
 .aali_tm_testimonials{
@@ -1998,7 +1998,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	11) AALI NEWS
+/*	11) cofe NEWS
 /*---------------------------------------------------*/
 
 .aali_tm_news{
@@ -2198,7 +2198,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	12) AALI COUNTER
+/*	12) cofe COUNTER
 /*---------------------------------------------------*/
 
 .aali_tm_counter{
@@ -2282,7 +2282,7 @@ h6 { font-size: 16px; }
 }
 
 /*---------------------------------------------------*/
-/*	13) AALI CONTACT
+/*	13) cofe CONTACT
 /*---------------------------------------------------*/
 
 .aali_tm_contact{
@@ -2455,7 +2455,7 @@ input[type=number] {
 }
 
 /*---------------------------------------------------*/
-/*	14) AALI COPYRIGHT
+/*	14) cofe COPYRIGHT
 /*---------------------------------------------------*/
 
 .aali_tm_copyright{
@@ -2701,7 +2701,7 @@ input[type=number] {
 }
 
 /*---------------------------------------------------*/
-/*	16) AALI MEDIA QUERIES (FOR SMALL DEVICES)
+/*	16) cofe MEDIA QUERIES (FOR SMALL DEVICES)
 /*---------------------------------------------------*/
 
 @media (max-width: 1400px) {
